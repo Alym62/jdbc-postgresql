@@ -1,6 +1,6 @@
 # Conexão com DB e JDBC, com PostgreSQL
 
-Não esquecer de baixar o drive do PostgreSQL, no site abaixo:
+Não esquecer de baixar o drive do PostgreSQL no site abaixo e colocar no Classpath:
 - https://jdbc.postgresql.org/download/
 
 ```bash
