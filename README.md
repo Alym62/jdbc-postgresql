@@ -6,3 +6,7 @@ Não esquecer de baixar o drive do PostgreSQL, no site abaixo:
 ```bash
   jdbc:postgresql://<database_host>:<port>/<database_name>
 ```
+
+## Stack utilizada:
+
+[![My Skills](https://skillicons.dev/icons?i=java,postgres&perline=3)](https://skillicons.dev)
